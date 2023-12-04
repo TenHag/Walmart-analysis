@@ -15,3 +15,5 @@ the company's ability to generate profits.
 
 5)The upward trend in Net Sales indicates 
 that the company is effectively growing year by year.
+
+-I have also uploaded some plots(for reference) which I had generated using R programming language and I am open to understanding more about the income statement. 
